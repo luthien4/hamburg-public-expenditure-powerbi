@@ -857,9 +857,11 @@ README.md
 ```
 
 The `.pbix` file contains the full Power BI report. The `images/` folder contains exported screenshots for GitHub and portfolio presentation.
+
 ## Current Status
 
 Completed:
+
 - Data source selected
 - Raw CSV imported and cleaned
 - Detail fact table created
@@ -868,14 +870,14 @@ Completed:
 - Executive Overview page built and styled
 - Variance & Change Analysis page built and styled
 - Category Detail page built and styled
-- Dashboard screenshots exported to images/`r
+- Dashboard screenshots exported to `images/`
+- GitHub repository initialized and published
 
-Next:
+## Recommended Next Steps
 
-- Add documentation screenshots
-- Prepare GitHub project README and portfolio summary
-- Prepare final GitHub repository structure
-
-
-
+- Add this project to the portfolio website as a Power BI / FP&A dashboard project
+- Add the repository to the GitHub profile README featured projects section
+- Pin the repository on the GitHub profile
+- Use the project in applications for Data Analyst, BI Analyst, and FP&A reporting roles
+- Optionally extend the dashboard with newer public finance data if comparable source tables are available
 
