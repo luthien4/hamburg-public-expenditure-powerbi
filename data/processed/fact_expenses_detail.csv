@@ -1,0 +1,110 @@
+﻿Expense Category;Year;Actual Amount EUR million;Share of Total %;Row Type
+Baumaßnahmen;2010;348,9;3,1;Detail
+Baumaßnahmen;2011;318;2,8;Detail
+Baumaßnahmen;2012;300,6;2,5;Detail
+Beihilfen, Unterstützungen und dergleichen;2010;219,4;2;Detail
+Beihilfen, Unterstützungen und dergleichen;2011;223,3;1,9;Detail
+Beihilfen, Unterstützungen und dergleichen;2012;235,2;2;Detail
+Besondere Finanzierungsvorgänge;2010;3390,2;;Detail
+Besondere Finanzierungsvorgänge;2011;3769,7;;Detail
+Besondere Finanzierungsvorgänge;2012;3274,6;;Detail
+Bezüge und Nebenleistungen;2010;2249,6;20,1;Detail
+Bezüge und Nebenleistungen;2011;2284,5;19,8;Detail
+Bezüge und Nebenleistungen;2012;2363,2;20;Detail
+Darlehen;2010;50,9;0,5;Detail
+Darlehen;2011;20,1;0,2;Detail
+Darlehen;2012;32;0,3;Detail
+Einrichtungen des Gesundheitswesens;2010;0,1;;Detail
+Einrichtungen des Gesundheitswesens;2011;0,1;;Detail
+Einrichtungen des Gesundheitswesens;2012;0,1;;Detail
+Energie, Wasserwirtschaft und Kulturbau;2010;54,6;0,5;Detail
+Energie, Wasserwirtschaft und Kulturbau;2011;41,6;0,4;Detail
+Energie, Wasserwirtschaft und Kulturbau;2012;64,9;0,5;Detail
+Erwerb von Beteiligungen und dergleichen;2010;64,2;0,6;Detail
+Erwerb von Beteiligungen und dergleichen;2011;0,2;;Detail
+Erwerb von Beteiligungen und dergleichen;2012;43,2;0,4;Detail
+Erwerb von beweglichen Sachen;2010;115,5;1;Detail
+Erwerb von beweglichen Sachen;2011;74;0,6;Detail
+Erwerb von beweglichen Sachen;2012;83,5;0,7;Detail
+Erwerb von unbeweglichen Sachen;2010;32,7;0,3;Detail
+Erwerb von unbeweglichen Sachen;2011;44;0,4;Detail
+Erwerb von unbeweglichen Sachen;2012;46,8;0,4;Detail
+Hochschulen;2010;60,7;0,5;Detail
+Hochschulen;2011;61,6;0,6;Detail
+Hochschulen;2012;50,1;0,4;Detail
+Laufende Zuweisungen und Zuschüsse (ohne Schuldendiensthilfen);2010;2877,6;25,8;Detail
+Laufende Zuweisungen und Zuschüsse (ohne Schuldendiensthilfen);2011;2965;25,6;Detail
+Laufende Zuweisungen und Zuschüsse (ohne Schuldendiensthilfen);2012;3341,9;28,3;Detail
+Laufender Sachaufwand;2010;2540,6;22,7;Detail
+Laufender Sachaufwand;2011;2846,1;24,6;Detail
+Laufender Sachaufwand;2012;2900,8;24,6;Detail
+Länderfinanzausgleich;2010;88,1;0,8;Detail
+Länderfinanzausgleich;2012;74,8;0,6;Detail
+Personalausgaben;2010;3509,1;31,4;Detail
+Personalausgaben;2011;3543,3;30,7;Detail
+Personalausgaben;2012;3661,8;31;Detail
+Renten, Unterstützungen und dergleichen;2010;1107,4;9,9;Detail
+Renten, Unterstützungen und dergleichen;2011;1108,4;9,6;Detail
+Renten, Unterstützungen und dergleichen;2012;1146,5;9,7;Detail
+Sachinvestitionen;2010;497,1;4,4;Detail
+Sachinvestitionen;2011;436;3,8;Detail
+Sachinvestitionen;2012;430,9;3,6;Detail
+Schuldendiensthilfen;2010;88,2;0,8;Detail
+Schuldendiensthilfen;2011;91,9;0,8;Detail
+Schuldendiensthilfen;2012;86,7;0,7;Detail
+Schuldentilgung;2010;3361,6;30,1;Detail
+Schuldentilgung;2011;3744,8;32,4;Detail
+Schuldentilgung;2012;3242,5;27,4;Detail
+Schulen;2010;6,3;0,1;Detail
+Schulen;2011;2;;Detail
+Schulen;2012;0,5;;Detail
+Sonstige Vermögensübertragungen;2010;0,3;;Detail
+Sonstige Vermögensübertragungen;2012;1,1;;Detail
+Sonstiges;2010;148,7;1,3;Detail
+Sonstiges;2011;118;1;Detail
+Sonstiges;2012;68,8;0,6;Detail
+Straßen;2010;78,5;0,7;Detail
+Straßen;2011;94,7;0,8;Detail
+Straßen;2012;116,3;1;Detail
+Tilgungsausgaben an öffentlichen Bereich;2010;16,7;0,1;Detail
+Tilgungsausgaben an öffentlichen Bereich;2011;219,4;1,9;Detail
+Tilgungsausgaben an öffentlichen Bereich;2012;0,1;;Detail
+Unterhaltung des unbeweglichen Vermögens;2010;62,1;0,6;Detail
+Unterhaltung des unbeweglichen Vermögens;2011;75,5;0,7;Detail
+Unterhaltung des unbeweglichen Vermögens;2012;71;0,6;Detail
+Vermögensübertragungen;2010;571,3;5,1;Detail
+Vermögensübertragungen;2011;499,9;4,3;Detail
+Vermögensübertragungen;2012;428,1;3,6;Detail
+Versorgungsbezüge und dergleichen;2010;1011,4;9;Detail
+Versorgungsbezüge und dergleichen;2011;997,3;8,6;Detail
+Versorgungsbezüge und dergleichen;2012;1032,5;8,7;Detail
+Zinsausgaben;2010;907,5;8,1;Detail
+Zinsausgaben;2011;880,3;7,6;Detail
+Zinsausgaben;2012;827;7;Detail
+Zuführungen an Rücklagen;2010;28,6;0,3;Detail
+Zuführungen an Rücklagen;2011;24,9;0,2;Detail
+Zuführungen an Rücklagen;2012;32,1;0,3;Detail
+Zuschüsse für Investitionen an sonstige Bereiche;2010;560,7;5;Detail
+Zuschüsse für Investitionen an sonstige Bereiche;2011;423,3;3,6;Detail
+Zuschüsse für Investitionen an sonstige Bereiche;2012;367,1;3,1;Detail
+Zuweisungen für Investitionen an öffentlichen Bereich;2010;10,3;0,1;Detail
+Zuweisungen für Investitionen an öffentlichen Bereich;2011;76,6;0,7;Detail
+Zuweisungen für Investitionen an öffentlichen Bereich;2012;59,9;0,5;Detail
+an Sonstige;2010;23,5;0,2;Detail
+an Sonstige;2011;1,6;;Detail
+an Sonstige;2012;19,4;0,2;Detail
+an Unternehmen ;2010;714,3;6,4;Detail
+an Unternehmen ;2011;552,1;4,8;Detail
+an Unternehmen ;2012;778,2;6,6;Detail
+an soziale und ähnliche Einrichtungen;2010;297,6;2,7;Detail
+an soziale und ähnliche Einrichtungen;2011;311,4;2,7;Detail
+an soziale und ähnliche Einrichtungen;2012;322,9;2,7;Detail
+für Kreditmarktmittel;2010;3338,1;29,9;Detail
+für Kreditmarktmittel;2011;3743,2;32,4;Detail
+für Kreditmarktmittel;2012;3223,2;27,3;Detail
+für Kreditmarktmittel ( ohne Ausgleichsforderungen);2010;880,5;7,9;Detail
+für Kreditmarktmittel ( ohne Ausgleichsforderungen);2011;833,4;7,2;Detail
+für Kreditmarktmittel ( ohne Ausgleichsforderungen);2012;787,9;6,7;Detail
+sonstige sächliche Verwaltungsausgaben;2010;870,3;7,8;Detail
+sonstige sächliche Verwaltungsausgaben;2011;1022,9;8,9;Detail
+sonstige sächliche Verwaltungsausgaben;2012;983,8;8,3;Detail
